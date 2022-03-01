@@ -1,8 +1,8 @@
 ### Olá! Eu sou Lucas Pontes
 
 
-- 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
+- 🌱 I am currently larning Python
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/lucas-pontess">
