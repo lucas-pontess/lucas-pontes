@@ -1,7 +1,7 @@
-### Olá! Eu sou Lucas Pontes
+### hellow ^^ ! I'm Lucas Pontes
 
 
-- 🌱 I am currently larning Python
+- 🌱 I'm currently larning Python
 - 😄 Pronouns: he/him
 
 <div align="center">
