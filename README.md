@@ -1,4 +1,4 @@
-### hellow ^^ ! I'm Lucas Pontes
+### Hey ^^ ! I'm Lucas Pontes
 
 
 - 🌱 I'm currently larning Python
