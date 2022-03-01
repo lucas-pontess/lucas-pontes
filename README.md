@@ -1,7 +1,7 @@
 ### Hey ^^ ! I'm Lucas Pontes
 
 
-- 🌱 I'm currently larning Python
+- 🌱 I'm currently learning Python
 - 😄 Pronouns: he/him
 
 <div align="center">
